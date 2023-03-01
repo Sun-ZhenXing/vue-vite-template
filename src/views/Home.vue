@@ -7,6 +7,6 @@
   <p>这是段落</p>
 </template>
 
-<style lang="less" scoped>
+<style scoped>
 
 </style>
